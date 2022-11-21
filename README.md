@@ -5,7 +5,7 @@
 - 👨🏻‍💻 I work at **Riskmonster**
 - 🤝 Previously, I worked at **ITzone**
 - 🔭 I’m currently working on AI Japanese NLP projects
-- ➕➖✖️➗ Practicing algorithms is a long-term investment, I started do it [everyday](https://github.com/Jaha96/Algorithm-Challenges)
+- ➕➖✖️➗ Practicing [algorithms](https://github.com/Jaha96/Algorithm-Challenges) is a long-term investment. 
 
 <p align="left">
   <img align="center" src="https://github-readme-stats.calvinchankf.vercel.app/api?username=Jaha96&show_icons=true" alt="Jaha96" />
