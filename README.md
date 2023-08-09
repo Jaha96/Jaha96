@@ -4,7 +4,7 @@
 
 - 👨🏻‍💻 I work at **Riskmonster**
 - 🤝 Previously, I worked at **ITzone**
-- 🔭 I’m currently working on AI Japanese NLP projects
+- 🔭 I’m currently working on AI Japanese NLP projects, Web Scraping
 - ➕➖✖️➗ Practicing [algorithms](https://github.com/Jaha96/Algorithm-Challenges) is a long-term investment. 
 
 <p align="left">
