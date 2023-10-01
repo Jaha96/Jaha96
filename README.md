@@ -10,9 +10,19 @@
 <p align="left">
   <img align="center" src="https://github-readme-stats.calvinchankf.vercel.app/api?username=Jaha96&show_icons=true" alt="Jaha96" />
   <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
-</p>
+  <p>My leetcode problem solving stats: </p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/jarkynbyek?ext=activity))
+  
+
+
+
+  
+</p>
+<p align="left">
+
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/jarkynbyek?theme=wtf&ext=activity)
+<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
+</p>
 
 <!--
 **Jaha96/Jaha96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
