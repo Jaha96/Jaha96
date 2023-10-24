@@ -1,6 +1,6 @@
 ### 
 <h1 align="center">Hi there 👋 I'm Jaha</h1>
-<h3 align="center">Software Engineer from Ulaanbaatar🇲🇳 and now in Osaka🇯🇵</h3>
+<h3 align="center">Software Engineer from Ulaanbaatar 🇲🇳 and now in Osaka 🇯🇵</h3>
 
 - 👨🏻‍💻 I work at **Riskmonster**
 - 🤝 Previously, I worked at **ITzone**
